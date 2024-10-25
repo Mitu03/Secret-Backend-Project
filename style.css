@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(188, 155, 112);
+}
+.container {
+  margin-top: 50px;
+  padding: 10px;
+  background-color: rgb(193, 177, 177);
+  height: 300px;
+}
+
+.container label {
+  padding: 15px;
+}
+
+.container input {
+  width: 250px;
+  height: 35px;
+  text-align: center;
+  font-size: initial;
+}
+
+#butn {
+  margin-top: 15px;
+  margin-left: 25px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+h3 {
+  text-align: center;
+}
+
+.container1 h1 {
+  text-align: center;
+}
+
+.container1 div {
+  margin-top: 40px;
+  border: 2px solid;
+  margin-left: 30px;
+  background-color: gray;
+}
+
+.container1 div h2 {
+  text-align: center;
+}
+.container1 div p {
+  text-align: center;
+}
